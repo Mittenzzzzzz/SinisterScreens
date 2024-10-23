@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Sinister_Screens_GIT/Workfile/Unreal_Files/Sinister_Screens/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Sinister_Screens_GIT/Workfile/Unreal_Files/Sinister_Screens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LH/YHT3Q2FWZ6980UJH6U97V0.uasset",
+				"D:/Sinister_Screens_GIT/Workfile/Unreal_Files/Sinister_Screens/Content/ThirdPerson/Maps/_GENERATED/mitra/Stairs_EFE0D3D4.uasset"
+			]
+		}
+	]
+}
